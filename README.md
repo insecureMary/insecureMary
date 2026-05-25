@@ -35,4 +35,6 @@ I work across Rust, Golang, Solidity, and Python, building cryptographic librari
 - Why-settle-for-Crosschain-when-you-can-go-Omnichain
 - Lifecycle of a Transaction (Fusaka Edition)
 
-- 
+  You can hit me up on my socials
+- [X](https://x.com/insecuremary1)
+- [Linkedin](https://www.linkedin.com/in/mary-odior-75a521244/)
